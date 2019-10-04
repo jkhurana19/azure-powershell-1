@@ -413,7 +413,8 @@ CmdletsToExport = 'Add-AzApplicationGatewayAuthenticationCertificate',
                'Test-AzPrivateLinkServiceVisibility', 
                'Approve-AzPrivateEndpointConnection', 
                'Deny-AzPrivateEndpointConnection', 
-               'Get-AzAvailablePrivateEndpointType'
+               'Get-AzAvailablePrivateEndpointType',
+               'Get-AzAvailableServiceAlias'
 
 # Variables to export from this module
 # VariablesToExport = @()
